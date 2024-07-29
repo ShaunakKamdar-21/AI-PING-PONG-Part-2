@@ -1,0 +1,31 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.heading h3
+{
+    display: inline;
+    font-size: 22px;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+.footer
+{
+    background-color:aquamarine;
+    color:aliceblue;
+    line-height:2;
+    margin-bottom:0px;
+    width:100px;
+}
+
+.modal-body
+{
+    text-align:left;
+}
